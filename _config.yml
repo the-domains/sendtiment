@@ -1,7 +1,7 @@
 name: Sendtiment
 favicon: null
-layout_spectrum: 0.4918492897413671
-typography_spectrum: 0.6015252999495715
+layout_spectrum: 0.49666
+typography_spectrum: 0.5859
 cta:
   domain: null
   bucket: null
