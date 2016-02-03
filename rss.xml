@@ -4,21 +4,14 @@
         <description><![CDATA[Sendtiment]]></description>
         <link>https://thegrid.ai/sendtiment/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 04:43:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 04:43:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sendtiment/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Is this thing on?]]></title>
-            <description><![CDATA[<article><h1>Is this thing on?</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8f406c6352c86de04fe2fd32747d69d92cff59c.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Is this thing on?</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0bc8144e704cea20aec9a1256974373a146ac49.png"></article>]]></description>
             <link>https://thegrid.ai/sendtiment/is-this-thing-on/index.html</link>
             <guid isPermaLink="false">07f781f0-8d65-488b-b2cc-7db4f11fa889</guid>
             <pubDate>Wed, 03 Feb 2016 04:42:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Coming soon</p>]]></description>
-            <link>https://thegrid.ai/sendtiment/29e902d8-cdba-40a9-b290-023dafa408b6/index.html</link>
-            <guid isPermaLink="false">29e902d8-cdba-40a9-b290-023dafa408b6</guid>
-            <pubDate>Fri, 11 Dec 2015 03:19:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
