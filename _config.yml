@@ -1,7 +1,7 @@
 name: Sendtiment
 favicon: null
 layout_spectrum: 0.33614
-typography_spectrum: 0.5859
+typography_spectrum: 0.62559
 title: ' ...'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#accfd3'
     - '#f9b3a8'
     - '#765464'
-  brandStrength: 0.25
-  lightness: 0.214474092470482
-  saturation: 0.875
-  rhythmicContrast: 0.8408889130223542
+  brandStrength: 0.375
+  lightness: 0.4375
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
