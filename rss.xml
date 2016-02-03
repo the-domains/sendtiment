@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Sendtiment]]></title>
-        <description><![CDATA[Sendtiment]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Sendtiment Beta]]></title>
+        <description><![CDATA[Sendtiment Beta]]></description>
+        <link>https://thegrid.ai/sendtiment/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 04:46:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 04:52:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sendtiment/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinede5b1a4af-53b3-4325-97a4-9be22275f4a7/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3ba2fe4-b646-4af0-b8d6-4c63e0b077fe.png">]]></description>
+            <link>https://thegrid.ai/sendtiment/4c41bca9-6c4d-4448-a39a-3c8f3252558c/index.html</link>
+            <guid isPermaLink="false">4c41bca9-6c4d-4448-a39a-3c8f3252558c</guid>
+            <pubDate>Wed, 03 Feb 2016 04:50:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The beginning is the most important part of the work - Plato</p>]]></description>
+            <link>https://thegrid.ai/sendtiment/e5b1a4af-53b3-4325-97a4-9be22275f4a7/index.html</link>
             <guid isPermaLink="false">e5b1a4af-53b3-4325-97a4-9be22275f4a7</guid>
             <pubDate>Wed, 03 Feb 2016 04:46:21 GMT</pubDate>
         </item>
