@@ -1,6 +1,6 @@
 name: Sendtiment
 favicon: null
-layout_spectrum: 0.49666
+layout_spectrum: 0
 typography_spectrum: 0.5859
 title: Sendtiment Beta
 cta:
@@ -22,7 +22,7 @@ color:
     - '#accfd3'
     - '#f9b3a8'
     - '#765464'
-  brandStrength: 0.6522243437357247
+  brandStrength: 0.25
   lightness: 0.214474092470482
   saturation: 0.875
   rhythmicContrast: 0.8408889130223542
